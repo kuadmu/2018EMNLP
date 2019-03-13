@@ -1,6 +1,6 @@
 This is a data sample for 'Neural Related Work Summarization with a Joint Context-driven Attention Mechanism'.
 
-Each subfolder relates to a specific research paper with the copyright information removed, and contains two files named 'gold' and 'candidate' respectively, where the former stores the ground truth 'Related Work' and the latter involves the candidate sentences from 'References'.
+Each subfolder relates to a specific research paper with the copyright removed, and contains two files named 'gold' and 'candidate' respectively, where the former stores the ground truth 'Related Work', and the latter involves the candidate sentences from 'References'.
 
 Note that every sentence is extracted from a PDF fulltext, and we have made some post-processing to filter the noisy ones out.
 
