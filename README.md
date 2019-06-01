@@ -9,7 +9,7 @@ Note that every sentence is extracted from a PDF fulltext, and we have made some
   author={Wang, Yongzhen and Liu, Xiaozhong and Gao, Zheng},  
   booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},  
   pages={1776--1786},  
-  address={Brussels, Belgium},  
   year={2018},  
+  address={Brussels, Belgium},  
   organization={ACL}  
 }
